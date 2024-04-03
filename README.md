@@ -1,2 +1,2 @@
-# Machine-Learning
-Modelo de regresión logística implementado en python sin el uso de alguna biblioteca o framework especializada en machine learning
+# Logistic Regression from scratch
+Logistic regression model implemented in Python without the use of any specialized machine learning library or framework.
